@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🦍 BitGorilla | Fullstack Engineer (Web2 + Web3)
 
-<!--
-**bitsgorilla/bitsgorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **BitGorilla** — a privacy-first fullstack developer working under a pseudonym. I specialize in building scalable apps using:
 
-Here are some ideas to get you started:
+- ⚙️ Backend: `.NET Core`, `Node.js`, `Golang`, `FastAPI`
+- 🖥️ Frontend: `React`, `Vue`, `Tailwind`, `Redux`
+- ☁️ Cloud: `Azure`, `Vercel`, `Firebase`, `IPFS`
+- 🧱 Web3: `Solidity`, `Ethers.js`, `Hardhat`, `The Graph`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+- 🛒 **MicroCart** – A microservices-based e-commerce backend ([repo](#))
+- 🧠 **AI-Note** – Smart markdown note-taking app with GPT ([repo](#))
+- 🌐 **Pseudonym.dev** – Personal site built with Next.js + Tailwind ([live](#))
+
+## 🌍 I Believe In
+- 💻 Clean, secure, scalable code
+- 🕶️ Privacy by design
+- 🤝 Trust through consistency, not identity
+
+## 📫 Contact
+- `bitgorilla@protonmail.com`
+- Discord: `@bitgorilla`
+- ENS: `bitgorilla.eth`
