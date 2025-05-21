@@ -19,5 +19,5 @@ Hi there! I'm **BitGorilla** — a privacy-first fullstack developer working und
 
 ## 📫 Contact
 - `bitgorilla@protonmail.com`
-- Discord: `@bitgorilla`
+- Discord: `@bitsgorilla`
 - ENS: `bitgorilla.eth`
