@@ -18,6 +18,4 @@ Hi there! I'm **BitGorilla** — a privacy-first fullstack developer working und
 - 🤝 Trust through consistency, not identity
 
 ## 📫 Contact
-- `bitgorilla@proton.me`
-- Discord: `@bitsgorilla`
-- ENS: `bitgorilla.eth`
+- `olgastarish1405@gmail.com`
