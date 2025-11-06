@@ -1,4 +1,4 @@
-# 🦍 BitGorilla | Fullstack Engineer (Web2 + Web3)
+# 🦍 BitGorilla | Fullstack Engineer (Web2 + Web3) | 🌹
 
 Hi there! I'm **BitGorilla** — a privacy-first fullstack developer working under a pseudonym. I specialize in building scalable apps using:
 
